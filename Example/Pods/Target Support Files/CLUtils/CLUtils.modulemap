@@ -1,0 +1,6 @@
+framework module CLUtils {
+  umbrella header "CLUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}

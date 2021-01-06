@@ -1,0 +1,22 @@
+{
+  "name": "CLUtils",
+  "version": "0.1.0",
+  "summary": "A short description of CLUtils.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hongcl8114@hotmail.com/CLUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hongcl8114@hotmail.com": "hongcl8114@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/hongcl8114@hotmail.com/CLUtils.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CLUtils/Classes/**/*"
+}
